@@ -24,7 +24,7 @@ struct ContentView: View {
     
     
     func notgonnawork() {
-        aoginn
+        print("THIS NOW WORKS")
     }
 }
 
