@@ -17,6 +17,15 @@ struct ContentView: View {
         }
         .padding()
     }
+    
+    
+    
+    
+    
+    
+    func notgonnawork() {
+        aoginn
+    }
 }
 
 #Preview {
